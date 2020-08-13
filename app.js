@@ -1,4 +1,4 @@
-// ! 1- Reuqirements : -------------------------------------------
+// ! 1- Reuqirements : ------------------------------------------
 
 const express = require("express");
 const app = express();
